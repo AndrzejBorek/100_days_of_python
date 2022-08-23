@@ -14,7 +14,7 @@ def caesar_ciphre(message,shift):
     print(chifred_message)
     
 
-shift = int(input("Podaj przesunięcie cyfru Cezara  "))
-message = input("Podaj wiadomość  ")
+shift = int(input("Give the shift of numbers "))
+message = input("Give message  ")
 
 caesar_ciphre(message=message,shift=shift)
