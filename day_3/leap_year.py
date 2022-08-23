@@ -3,13 +3,13 @@ def is_leap(rok):
     if rok % 4 ==0:
         if rok % 100 == 0:
             if rok % 400 == 0:
-                print(f"Rok {rok} jest przestępny ")
+                print(f"Year {rok} is leap ")
             else:
-                print(f"Rok {rok} nie jest przestępny ")
+                print(f"Year {rok} is not leap ")
         else:
-            print(f"Rok {rok} jest przestępny ")
+            print(f"Year {rok} is leap ")
     else:
-        print(f"Rok {rok} nie jest przestępny ")
+        print(f"Year {rok} is not leap")
 
-rok = int(input("Podaj rok zobaczymy czy przestepny "))
+rok = int(input("Give year lets see if its leap "))
 is_leap(rok)
