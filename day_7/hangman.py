@@ -7,7 +7,7 @@ def charposition(string, char):
             pos.append(n)
     return pos
 
-word_list = ["hangman","babajaga","konstatynopolitańczykowianeczka"]
+word_list = ["hangman","babajaga","veryhardword"]
 
 
 word = r.choice(word_list)
@@ -25,14 +25,14 @@ while lives >= 0:
         break
     else:
         print("    ")
-        letter = input(f"Zgadnij literę, zostały Ci {lives} szans   ")
-        print(f" Użyłeś już {used_letters} ")
+        letter = input(f"Guess the letter you have {lives} chances   ")
+        print(f" You have already used  {used_letters} ")
         print("")
         pos = charposition(word,letter)
         if len(pos) == 0:
             lives = lives -1
             used_letters.append(letter)
-            print("Błędna litera!")
+            print("Wrong letter!")
         else:
             for i in pos:
              answear[i] = letter
