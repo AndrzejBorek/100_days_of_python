@@ -1,9 +1,9 @@
 print("Welcome to the tip calculator")
 
-rachunek = float(input("Ile wyszedł rachunek?"))
+bill = float(input("How much to pay?"))
 
-tip = int(input("Ile chciałbyś procent napiwku dać?"))
+tip = int(input("How big tip you wish to give?"))
 
-osoby = int(input("Na ile osób chciałbyś podzielić rachunek?"))
+persons = int(input("How many people to divide bill?"))
 
-print(f"Każda osoba powinna wydać {round((rachunek+(tip/100)*rachunek)/osoby,2)}")
+print(f"Every person should spend {round((bill+(tip/100)*bill)/persons,2)}")
