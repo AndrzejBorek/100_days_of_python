@@ -19,6 +19,6 @@ greeting_with_name(2)
 
 def greetings_with_two_names(name,name2):
     print(f"Hello {name} and hello {name2} ")
-greetings_with_two_names(name2 = "Eli",name ="Andrzej") #zmiana kolejności argumentów nie ma znaczenia jeśli określę, który parametr przyjmuje który argument
+greetings_with_two_names(name2 = "Eli",name ="Andrzej") 
 
 
