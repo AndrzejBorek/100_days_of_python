@@ -7,14 +7,14 @@ def is_prime(number):
     else:
         for i in range(2,int(number/2)+1):
             if number % i == 0:
-                print(f"{number} jest liczbą złożoną")
+                print(f"{number} is not prime")
                 return(False)
                 break
             else:
-                print(f"{number} jest liczbą pierwszą")
+                print(f"{number} is prime")
                 return(True)
                 break
          
-n = int(input("Podaj liczbę, zobaczymy czy pierwsza  "))
+n = int(input("Lets see if this number is prime  "))
 is_prime(n)
 
