@@ -11,4 +11,4 @@ for i in range (0,len(scores)-1):
     if scores[i] > highestResult:
         highestResult = scores[i]
 
-print(f"Najwyzszy wynik na teście to {highestResult}")
+print(f"Highest result is {highestResult}")
