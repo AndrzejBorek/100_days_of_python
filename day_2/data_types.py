@@ -1,4 +1,4 @@
-print(123_456_789 + 1) #_ traktuje jak 123,456,789 - rozdzielenie dużych liczb
+print(123_456_789 + 1) #_ treats like 123,456,789 dividing big numbers
 
 #zadanie
 
