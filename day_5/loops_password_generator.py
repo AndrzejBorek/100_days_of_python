@@ -1,13 +1,13 @@
 import random as r
-liczbaLiter = int(input("Ile liter ma mieć Twoje hasło? "))
+numberOfLetters = int(input("How many letters in password? "))
 letters = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'
-hasło = ""
-for i in range(0,liczbaLiter):
+password = ""
+for i in range(0,numberOfLetters):
     los = r.randint(0,1)
     if los == 1:
-        hasło = hasło + str(r.randint(0,9))
+        password = password + str(r.randint(0,9))
     else:
-        hasło = hasło + r.choice(letters)
+        password = password + r.choice(letters)
 
-print(f"Twoje hasło to {hasło}")
+print(f"Your password is {password}")
 
