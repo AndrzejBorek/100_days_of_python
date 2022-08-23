@@ -23,12 +23,12 @@
 # result /= 2 #shorter way to write result = result / 2
 # print (result)
 
-#ZADANIE : ile dni/tygodni/miesięcy zostało do 90 roku życia
+#Task : how much time until 90th year of life
 
-wiek = int(input("Podaj swój wiek"))
+age = int(input("Podaj swój wiek"))
 
-lata = 90 - wiek
-tygodnie = round(lata*52)
-dni = round(tygodnie*7)
+years = 90 - age
+weeks = round(years*52)
+days = round(weeks*7)
 
-print(f"zostało Ci {lata} lat życia, co jest równe {tygodnie} tygodni i {dni} dni")
+print(f"you have left {years} lat życia, co jest równe {weeks} tygodni i {days} dni")
