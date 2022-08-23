@@ -1,20 +1,20 @@
-# height = int(input("Jaki jest twoj wzrost?"))
+# height = int(input("Whats your height?"))
 
 # if height > 180:
 #     print(">180")
 # else:
 #     print("<180")
 
-# check = int(input("podaj liczbe zobaczymy czy parzysta"))
+# check = int(input("Give number lets see if even"))
 
 # if check%2 ==0:
-#     print("parzysta")
+#     print("even")
 # else:
-#     print("nieparzysta")
+#     print("odd")
 
-#Zagnieżdżone ify
+#Nested ifs
 
-# height = int(input("Podaj wzrost "))
+# height = int(input("Give height "))
 # if height >= 150:
 #     if height >= 180:
 #         print("180 <= height ")
@@ -23,7 +23,7 @@
 # else:
 #     print("height < 150 ")
 
-# height = int(input("Podaj wzrost "))
+# height = int(input("Give height "))
 # if height < 150:
 #     print("150 > height ")
 # elif height >= 150 and height < 180 :
