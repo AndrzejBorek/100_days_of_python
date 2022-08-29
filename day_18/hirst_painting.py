@@ -25,6 +25,7 @@ screen = t.Screen()
 
 
 def hirst_painting():
+    timmy.hideturtle()
     global y_coord
     for i in range(10):
         for j in range(10):
