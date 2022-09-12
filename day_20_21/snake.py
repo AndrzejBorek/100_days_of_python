@@ -65,25 +65,3 @@ class Snake:
         new_segment.penup()
         new_segment.goto(position)
         self.segments.append(new_segment)
-
-        # def grow(self):
-    #     segment = Turtle(shape="square")
-    #     segment.penup()
-    #     segment.color("black")
-    #     last_segment = self.get_last_segment()
-    #     if self.head.heading == LEFT:
-    #         segment.goto(x=last_segment.xcor() + 20, y=last_segment.ycor())
-    #     elif self.head.heading == RIGHT:
-    #         segment.goto(x=last_segment.xcor() - 20, y=last_segment.ycor())
-    #     elif self.head.heading == UP:
-    #         segment.goto(x=last_segment.xcor(), y=last_segment.ycor() - 20)
-    #     elif self.head.heading == DOWN:
-    #         segment.goto(x=last_segment.xcor(), y=last_segment.ycor() + 20)
-    #     self.segments.append(segment)
-    #     segment.color("white")
-    #
-    # def get_last_segment(self) -> Turtle:
-    #     return self.segments[len(self.segments) - 1]
-    #
-    # def check_if_collide_with_tail(self):
-    #     return any(self.head.distance(segment) <= 20 for segment in self.segments)
