@@ -2,9 +2,9 @@ import turtle
 from turtle import Screen, Turtle
 import time
 
-from day_20.snake import Snake
-from day_20.food import Food
-from day_20.scoreboard import Scoreboard
+from day_20_21.snake import Snake
+from day_20_21.food import Food
+from day_20_21.scoreboard import Scoreboard
 
 SCREEN_WIDTH = 600
 SCREEN_HEIGHT = 600
