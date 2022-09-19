@@ -21,7 +21,6 @@ class Scoreboard(Turtle):
         self.hideturtle()
         self.update_scoreboard()
 
-
     def increase_score(self):
         self.score += 1
         self.update_scoreboard()
