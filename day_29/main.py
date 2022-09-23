@@ -1,4 +1,5 @@
 import json
+from json import JSONDecodeError
 from tkinter import *
 from random import *
 import string
@@ -29,16 +30,59 @@ def save():
     website = website_entry.get()
     username = username_entry.get()
     password = password_entry.get()
+    new_data = {
+        website: {
+            "Username": username,
+            "Password": password,
+        }
+    }
+
     if len(website) == 0 or len(password) == 0:
         messagebox.showinfo(title="Oops", message="Please make sure you haven't left any fields empty.")
     else:
-        is_ok = messagebox.askokcancel(title=website, message=f"These are the details entered: \nEmail: {username} "
-                                                              f"\nPassword: {password} \nIs it ok to save?")
-        if is_ok:
-            with open("data.txt", "a") as data_file:
-                data_file.write(f"{website} | {username} | {password}\n")
-                website_entry.delete(0, END)
+        try:
+            with open('data.json', 'r') as f:
+                data_from_file = json.load(f)
+        except FileNotFoundError:
+            with open("data.json", "w") as f:
+                json.dump(new_data, f, indent=4)
+        except JSONDecodeError:
+            with open("data.json", "w") as file:
+                json.dump({}, file, indent=4)
+                messagebox.showinfo(title="Oops", message="You will have to generate password again")
+        else:
+            data_from_file.update(new_data)
+            with open("data.json", "w") as data_file:
+                json.dump(data_from_file, data_file, indent=4)
+        finally:
+            website_entry.delete(0, END)
+            password_entry.delete(0, END)
+
+
+# ----------------------------- Search Password --------------------------- #
+
+def search_password():
+    try:
+        website = website_entry.get()
+    except KeyError:
+        messagebox.showinfo(title="!!!!", message="You have to enter website")
+    else:
+        try:
+            with open('data.json', 'r') as f:
+                data = json.load(f)
+        except FileNotFoundError:
+            messagebox.showinfo(title="!!!!", message="You do not have any passwords, add some")
+        else:
+            try:
+                password = data[website]['Password']
+                username = data[website]['Username']
+            except KeyError:
+                messagebox.showinfo(title="!!!!", message="You do not have any passwords")
+            else:
                 password_entry.delete(0, END)
+                password_entry.insert(0, password)
+                username_entry.delete(0, END)
+                username_entry.insert(0, username)
 
 
 # ---------------------------- UI SETUP ------------------------------- #
@@ -69,6 +113,9 @@ generate_password_button.grid(row=3, column=1, sticky='e')
 
 add_button = Button(text="Add", width=36, command=save)
 add_button.grid(row=4, column=1, columnspan=2)
+
+search_password_button = Button(text="Search", command=search_password, width=12)
+search_password_button.grid(row=1, column=3)
 
 # Entries
 website_entry = Entry(width=35)
