@@ -1,0 +1,1001 @@
+,PL,EN
+0,['nie'],['not']
+1,['to'],"[""It's""]"
+2,['się'],['up']
+3,['na'],['on']
+4,['co'],['every']
+5,['że'],['that']
+6,['jest'],['is']
+7,['do'],['until']
+8,['tak'],['yes']
+9,['jak'],['like']
+10,['mnie'],['me']
+11,['ale'],['But']
+12,['mi'],['Mi']
+13,['za'],['for']
+14,['ja'],['me']
+15,['ci'],['CI']
+16,['tu'],['here']
+17,['go'],['go']
+18,['tego'],['this']
+19,['tym'],['this']
+20,['ty'],['You']
+21,['czy'],['or']
+22,['tylko'],['only']
+23,['po'],['after']
+24,['jestem'],"[""I'm""]"
+25,['cię'],['you']
+26,['ma'],['has']
+27,['może'],['maybe']
+28,['już'],['already']
+29,['mam'],"['I', 'have']"
+30,['jesteś'],"['You', 'are']"
+31,['pan'],['Mr.']
+32,['coś'],['something']
+33,['dla'],['for']
+34,['wiem'],"['I', 'know']"
+35,['dobrze'],['good']
+36,['jeśli'],['If']
+37,['od'],['from']
+38,['teraz'],['Now']
+39,['proszę'],['please']
+40,['tam'],['there']
+41,['wszystko'],['All']
+42,['masz'],"['You', 'have']"
+43,['więc'],['So']
+44,['nic'],['nothing']
+45,['być'],['be']
+46,['będzie'],"['It', 'will', 'be']"
+47,['gdzie'],['where']
+48,['są'],"['there', 'are']"
+49,['on'],['on']
+50,['mogę'],"['I', 'can']"
+51,['ten'],['This']
+52,['ciebie'],['you']
+53,['sobie'],['ourselves']
+54,['wiesz'],"['You', 'know']"
+55,['ze'],['from']
+56,['bardzo'],['very']
+57,['jej'],['her']
+58,['kiedy'],['When']
+59,['był'],['was']
+60,['jeszcze'],['more']
+61,['nas'],['us']
+62,['chcę'],"['I', 'want']"
+63,['mój'],['my']
+64,['było'],"['It', 'was']"
+65,['no'],['no']
+66,['przez'],['by']
+67,['by'],['by']
+68,['pani'],['Mrs.']
+69,['ją'],['her']
+70,['jego'],['his']
+71,['ich'],"['of', 'them']"
+72,['dlaczego'],['Why']
+73,['chcesz'],"['you', 'want']"
+74,['żeby'],['to']
+75,['tutaj'],['here']
+76,['mamy'],"['We', 'have']"
+77,['też'],['Also']
+78,['bo'],['because']
+79,['dobra'],['Okay']
+80,['kto'],['who']
+81,['nigdy'],['never']
+82,['przepraszam'],['sorry']
+83,['mu'],['MU']
+84,['naprawdę'],['really']
+85,['możesz'],"['You', 'can']"
+86,['chyba'],"['I', 'think']"
+87,['porządku'],['Right']
+88,['dziękuję'],"['Thank', 'you']"
+89,['muszę'],"['I', 'must']"
+90,['panie'],['Lord']
+91,['właśnie'],['just']
+92,['ona'],['she']
+93,['domu'],['House']
+94,['zrobić'],['do']
+95,['nawet'],['Even']
+96,['gdy'],['when']
+97,['prawda'],['Truth']
+98,['te'],['these']
+99,['nam'],['us']
+100,['będę'],"['I', 'will', 'be']"
+101,['zawsze'],['Always']
+102,['bez'],['Without']
+103,['nim'],['before']
+104,['je'],['Je']
+105,['była'],['was']
+106,['jesteśmy'],"['We', 'are']"
+107,['dzięki'],['Thanks']
+108,['tej'],['This']
+109,['moja'],['my']
+110,['trochę'],"['a', 'little']"
+111,['ktoś'],['someone']
+112,['musisz'],"['You', 'must']"
+113,['cześć'],['Hi']
+114,['hej'],['Hey']
+115,['lat'],[]
+116,['moje'],['my']
+117,['pana'],['Pan']
+118,['musimy'],"['We', 'must']"
+119,['dalej'],['Next']
+120,['twój'],['Your']
+121,['wszyscy'],['all']
+122,['czas'],['Time']
+123,['chce'],"['I', 'want']"
+124,['który'],['which']
+125,['więcej'],['more']
+126,['tobą'],['you']
+127,['boże'],['God']
+128,['powiedzieć'],['say']
+129,['sam'],['Sam']
+130,['chodzi'],"['It', 'is']"
+131,['czego'],['what']
+132,['ta'],['TA']
+133,['możemy'],"['We', 'can']"
+134,['albo'],['or']
+135,['mną'],['me']
+136,['razem'],['Total']
+137,['niech'],['Let']
+138,['dobry'],['good']
+139,['raz'],['once']
+140,['stało'],"['It', 'stood']"
+141,['was'],['you']
+142,['czym'],['what']
+143,['prostu'],['Simply']
+144,['będziesz'],"['You', 'will', 'be']"
+145,['chodź'],['Come']
+146,['czemu'],['Why']
+147,['przed'],['before']
+148,['ludzi'],['people']
+149,['daj'],['Give']
+150,['ludzie'],['People']
+151,['dzień'],['Day']
+152,['przy'],['at']
+153,['życie'],['Life']
+154,['niż'],['than']
+155,['robisz'],"['you', 'do']"
+156,['myślę'],"['I', 'think']"
+157,['lepiej'],['Better']
+158,['kim'],['Kim']
+159,['myślisz'],"['You', 'think']"
+160,['miał'],"['He', 'was']"
+161,['my'],['My']
+162,['nikt'],['Nobody']
+163,['czasu'],['time']
+164,['powiedz'],['Say']
+165,['rzeczy'],['Things']
+166,['twoja'],['Your']
+167,['tych'],['these']
+168,['stąd'],['Hence']
+169,['niego'],['him']
+170,['mówi'],['says']
+171,['im'],['IM']
+172,['temu'],['ago']
+173,['jeden'],['one']
+174,['pod'],['Under']
+175,['musi'],['Must']
+176,['siebie'],['yourself']
+177,['twoje'],['Your']
+178,['powiedział'],['said']
+179,['oczywiście'],"['Of', 'course']"
+180,['ok'],['around']
+181,['moim'],['my']
+182,['oni'],['they']
+183,['dwa'],['two']
+184,['które'],['which']
+185,['pewnie'],['probably']
+186,['dziś'],['Today']
+187,['kurwa'],['Fuck']
+188,['wie'],['knows']
+189,['taki'],['Such']
+190,['aby'],['to']
+191,['skąd'],"['Where', 'did', '90515', 'come']"
+192,['cholera'],['Damn']
+193,['dzieje'],['History']
+194,['wygląda'],['looks']
+195,['wtedy'],['then']
+196,['mojego'],['My']
+197,['takie'],['Such']
+198,['ile'],"['how', 'many']"
+199,['wszystkie'],['All']
+200,['mieć'],['have']
+201,['dlatego'],"[""That's"", 'why']"
+202,['znaczy'],['means']
+203,['będziemy'],"['We', 'will', 'be']"
+204,['potem'],['Then']
+205,['jasne'],['Jasne']
+206,['iść'],['go']
+207,['dużo'],"['Lots', 'of']"
+208,['cóż'],['Well']
+209,['tę'],['This']
+210,['byłem'],"['I', 'was']"
+211,['rozumiem'],"['I', 'understand']"
+212,['wam'],['WAM']
+213,['miejsce'],['place']
+214,['cały'],['all']
+215,['trzeba'],"['you', 'need']"
+216,['moją'],['My']
+217,['można'],"['You', 'can']"
+218,['pomóc'],['help']
+219,['jako'],['as']
+220,['nich'],['them']
+221,['szybko'],['fast']
+222,['jakiś'],['about']
+223,['mojej'],['my']
+224,['nią'],['her']
+225,['mają'],"['They', 'have']"
+226,['wszystkich'],['all']
+227,['jakieś'],['about']
+228,['wiedzieć'],['know']
+229,['swoje'],['Your']
+230,['przykro'],['Sorry']
+231,['stary'],['old']
+232,['zaraz'],['immediately']
+233,['myśli'],['thoughts']
+234,['dzieci'],['children']
+235,['nad'],['over']
+236,['wiele'],['many']
+237,['kochanie'],['Honey']
+238,['kilka'],['several']
+239,['mówię'],"['I', 'speak']"
+240,['mówisz'],"['you', 'speak']"
+241,['zanim'],['Before']
+242,['miałem'],"['I', 'was']"
+243,['kocham'],"['I', 'love']"
+244,['świetnie'],['Great']
+245,['tobie'],['you']
+246,['takiego'],['such']
+247,['tyle'],"['So', 'much']"
+248,['robić'],['do']
+249,['trzy'],['Three']
+250,['idź'],['Go']
+251,['kogoś'],['someone']
+252,['ani'],['not']
+253,['pewno'],['surely']
+254,['myślałem'],"['I', 'thought']"
+255,['widzisz'],"['You', 'see']"
+256,['kiedyś'],['once']
+257,['robi'],['does']
+258,['widzę'],"['I', 'see']"
+259,['jaki'],['what']
+260,['niej'],['her']
+261,['ojciec'],['Father']
+262,['zbyt'],['too']
+263,['która'],['which']
+264,['zobaczyć'],['see']
+265,['przestań'],['Stop']
+266,['sposób'],['way']
+267,['pracy'],['work']
+268,['dzisiaj'],['today']
+269,"['sie', '65486', '(sie', 'could', 'be', 'a', 'common', 'misspelling', 'mistake;', 'should', 'be']","['Si', '65486', '(Sie', 'Could', 'Be', 'A', 'Common', 'Missspelling', 'Mistake;', 'Should']"
+270,['później'],['later']
+271,['bardziej'],['more']
+272,['będą'],"['will', 'be']"
+273,['aż'],"['up', 'to']"
+274,['życia'],['Life']
+275,['jutro'],['Tomorrow']
+276,['tą'],['this']
+277,['rację'],['right']
+278,['żebyś'],"['That', 'you']"
+279,['długo'],['long']
+280,['tato'],['Dad']
+281,['każdy'],['Each']
+282,['twoim'],['Your']
+283,['chciałem'],"['I', 'wanted']"
+284,['dni'],['days']
+285,['twojej'],['Your']
+286,['nadzieję'],['hope']
+287,['stanie'],['standing']
+288,['koniec'],"['End', 'of']"
+289,['znam'],"['I', 'know']"
+290,['mamo'],['Mom']
+291,['swoją'],['its']
+292,['problem'],['Problem']
+293,['żyje'],"['He', 'lives']"
+294,['potrzebuję'],"['I', 'need']"
+295,['widziałem'],"['I', 'saw']"
+296,['spokój'],['peace']
+297,['powiem'],"['I', 'will', 'say']"
+298,['minut'],['minutes']
+299,['broń'],['weapon']
+300,['panu'],['Mr.']
+301,['mógł'],['could']
+302,['nami'],['us']
+303,['wy'],['You']
+304,['nocy'],['night']
+305,['wciąż'],['still']
+306,['znowu'],['again']
+307,['pieniądze'],['Money']
+308,['imię'],['Name']
+309,['dnia'],['on']
+310,['zabić'],['kill']
+311,['drzwi'],['door']
+312,['pierwszy'],['First']
+313,['taka'],['Such']
+314,['nasz'],['our']
+315,['posłuchaj'],['Listen']
+316,['ponieważ'],['Because']
+317,['słuchaj'],['Listen']
+318,['jakie'],['what']
+319,['gdyby'],['If']
+320,['miło'],['Nice']
+321,['spójrz'],['Look']
+322,['chciałbym'],"['I', 'would', 'like']"
+323,['sir'],['sir']
+324,['razie'],['now']
+325,['nasze'],['Our']
+326,['dokładnie'],['Exactly']
+327,['czuję'],"['I', 'feel']"
+328,['zrobił'],"['He', 'did']"
+329,['dobre'],['Good']
+330,['samo'],['Sam']
+331,['nadal'],['still']
+332,['człowiek'],['Man']
+333,['twoją'],['Your']
+334,['znaleźć'],['find']
+335,['chwilę'],['moments']
+336,['chciał'],"['He', 'wanted']"
+337,['kogo'],['whom']
+338,['zostać'],['stay']
+339,['czegoś'],['something']
+340,['wszystkim'],['all']
+341,['został'],['left']
+342,['roku'],['year']
+343,['mówić'],['speak']
+344,['jesteście'],"['You', 'are']"
+345,['facet'],['guy']
+346,['mów'],['Speak']
+347,['powiedziałem'],"['I', 'said']"
+348,['były'],"['there', 'were']"
+349,['którzy'],['who']
+350,['dziecko'],['child']
+351,['idziemy'],"['We', 'go']"
+352,['sama'],['Sam']
+353,['macie'],"['you', 'have']"
+354,['mówiłem'],"['I', 'said']"
+355,['we'],['in']
+356,['napisy'],['subtitles']
+357,['mogą'],['can']
+358,['spokojnie'],['Relax']
+359,['sobą'],['ourselves']
+360,['bym'],"['I', 'would']"
+361,['miała'],"['She', 'was']"
+362,['przecież'],"['after', 'all']"
+363,['dom'],['House']
+364,['poza'],['except']
+365,['zamknij'],['Close']
+366,['byłeś'],"['You', 'were']"
+367,['lubię'],"['I', 'like']"
+368,['oh'],['Oh']
+369,['żadnych'],['no']
+370,['pomocy'],['Help']
+371,['prawie'],['almost']
+372,['gdzieś'],['Somewhere']
+373,['porozmawiać'],['Talk']
+374,['wcześniej'],['Earlier']
+375,['podoba'],"['I', 'like']"
+376,['zrobię'],"['I', 'will', 'do']"
+377,['czekaj'],['Wait']
+378,['dość'],['quite']
+379,['twojego'],['Your']
+380,['lub'],['or']
+381,['moich'],['my']
+382,['razy'],['times']
+383,['znasz'],"['You', 'know']"
+384,['mały'],['Little']
+385,['ciągle'],['still']
+386,['jakby'],['like']
+387,['wydaje'],"['It', 'spends']"
+388,['mama'],['Mama']
+389,['powinniśmy'],"['We', 'should']"
+390,['jeżeli'],['If']
+391,['jack'],['jack']
+392,['powinieneś'],"['You', 'should']"
+393,['innego'],['another']
+394,['sprawy'],['matters']
+395,['rozumiesz'],"['You', 'understand']"
+396,['trzymaj'],['Hold']
+397,['końcu'],['finally']
+398,['powodu'],['reason']
+399,['jedno'],['one']
+400,['pamiętasz'],"['You', 'remember']"
+401,['pomysł'],['Idea']
+402,['noc'],['night']
+403,['pewien'],['One']
+404,['którą'],['which']
+405,['wiemy'],"['We', 'know']"
+406,['bądź'],['be']
+407,['żebym'],"['Let', 'me']"
+408,['numer'],['number']
+409,['oczy'],['Eyes']
+410,['lata'],"['The', 'years']"
+411,['dwie'],['two']
+412,['miejscu'],['place']
+413,['dokąd'],['where']
+414,['och'],['Oh']
+415,['pokoju'],['room']
+416,['chodźmy'],"[""Let's"", 'go']"
+417,['ojca'],['Father']
+418,['weź'],['Take']
+419,['idę'],"[""I'm"", 'going']"
+420,['samochód'],['Car']
+421,['nowy'],['new']
+422,['jednak'],"['However,']"
+423,['świat'],['world']
+424,['źle'],['bad']
+425,['którego'],['which']
+426,['niczego'],['nothing']
+427,['oto'],"['Here', 'is']"
+428,['dwóch'],['two']
+429,['sprawa'],['Case']
+430,['swój'],['Your']
+431,['idzie'],['goes']
+432,['takim'],['Such']
+433,['jedną'],['one']
+434,['wystarczy'],"['38813', 'is']"
+435,['byłam'],"['I', 'was']"
+436,['rano'],"['In', 'the', 'morning']"
+437,['nimi'],['them']
+438,['halo'],['Halo']
+439,['byś'],['By']
+440,['życiu'],['life']
+441,['całe'],['all']
+442,['wiedziałem'],"['I', 'knew']"
+443,['swojego'],['your']
+444,['śmierć'],['Death']
+445,['ręce'],['Hands']
+446,['musiał'],['Must']
+447,['którym'],['which']
+448,['całą'],['all']
+449,['chcą'],"['They', 'want']"
+450,['da'],['Da']
+451,['właściwie'],['actually']
+452,['zrób'],['Do']
+453,['panowie'],['Gentlemen']
+454,['skoro'],['Since']
+455,['drogi'],['Road']
+456,['czujesz'],"['You', 'feel']"
+457,['dam'],"['I', 'will', 'give']"
+458,['pozwól'],['Let']
+459,['wyglądasz'],"['you', 'look']"
+460,['jednego'],['one']
+461,['jedna'],['one']
+462,['mówił'],"['he', 'spoke']"
+463,['których'],['which']
+464,['świecie'],['world']
+465,['patrz'],['see']
+466,['nikogo'],['Nobody']
+467,['byli'],"['they', 'were']"
+468,['pytanie'],['Question']
+469,['swoim'],[]
+470,['której'],['which']
+471,['powinienem'],"['I', 'should']"
+472,['jezu'],['Jesus']
+473,['dać'],['give']
+474,['rzecz'],['REVELOPMENT']
+475,['powiedziała'],['said']
+476,['powiedziałeś'],"['You', 'said']"
+477,['najpierw'],['first']
+478,['sądzę'],"['I', 'think']"
+479,['prawo'],['Law']
+480,['matka'],['Mother']
+481,['widzieć'],['see']
+482,"['John', '35318', '(this', 'is', 'not', 'Polish', 'given', 'name', '-', 'see']","['John', '35318', '(This', 'is', 'not', 'Polish', 'Given', 'Name', '-', 'See']"
+483,['dr'],['Dr.']
+484,['telefon'],['phone']
+485,['podczas'],['during']
+486,['wczoraj'],['yesterday']
+487,['śmierci'],['Death']
+488,['pracę'],['work']
+489,['pamiętam'],"['I', 'remember']"
+490,['uważaj'],"['Be', 'careful']"
+491,['parę'],"['A', 'few']"
+492,['wrócić'],"['come', 'back']"
+493,['diabła'],['devil']
+494,['the'],['The']
+495,['robię'],"['I', 'do']"
+496,['zrobiłem'],"['I', 'did']"
+497,['kobiety'],['Women']
+498,['poważnie'],['seriously']
+499,['miejsca'],['places']
+500,['znów'],['again']
+501,['cholery'],['cholery']
+502,['zrobiłeś'],"['you', 'did']"
+503,['sprawę'],['case']
+504,['zaczekaj'],['Wait']
+505,['powiesz'],"['you', 'say']"
+506,['rób'],['Do']
+507,['natychmiast'],['immediately']
+508,['dziewczyna'],['Girl']
+509,['również'],['also']
+510,['działa'],['works']
+511,['słyszałem'],"['I', 'heard']"
+512,['pięć'],['five']
+513,['super'],['Super']
+514,['swoich'],['his']
+515,['mówią'],"['They', 'say']"
+516,['witam'],['Hello']
+517,['całkiem'],['quite']
+518,['cokolwiek'],['Whatever']
+519,['witaj'],['Hello']
+520,['gdybym'],"['If', 'I', 'was']"
+521,['żona'],['Wife']
+522,['prawdę'],['Truth']
+523,['zostaw'],['Leave']
+524,['bóg'],['God']
+525,['wierzę'],"['I', 'believe']"
+526,['szybciej'],['faster']
+527,['nieźle'],"['Not', 'bad']"
+528,['wielu'],['many']
+529,['inaczej'],['otherwise']
+530,['gra'],['game']
+531,['dopiero'],['only']
+532,['wcale'],"['32513', 'not', 'at']"
+533,['pieniędzy'],['money']
+534,['pójdę'],"['I', 'will', 'go']"
+535,['godziny'],[]
+536,['wiedział'],"['he', 'knew']"
+537,['udało'],"['I', 'succeeded']"
+538,['człowieka'],['man']
+539,['stać'],['stand']
+540,['wina'],['Wine']
+541,['wiecie'],"['you', 'know']"
+542,['swojej'],['your']
+543,['poznać'],"['to', 'know']"
+544,['inne'],['Other']
+545,['jednym'],['one']
+546,['myślałam'],"['I', 'thought']"
+547,['miałam'],"['I', 'had']"
+548,['chwili'],['moment']
+549,['innych'],['Others']
+550,['dopóki'],"['As', 'long', 'as']"
+551,['nowa'],['New']
+552,['kobieta'],['woman']
+553,['nowego'],['new']
+554,['miłość'],['Love']
+555,['ziemi'],['Earth']
+556,['inny'],['Other']
+557,['przynajmniej'],"['at', 'least']"
+558,['nasza'],['Our']
+559,['ważne'],['Important']
+560,['wiadomość'],['Message']
+561,['dolarów'],['dollars']
+562,['słowa'],['Words']
+563,['słucham'],"['I', 'listen', 'to']"
+564,['naszych'],['our']
+565,['naszej'],['our']
+566,['między'],['Between']
+567,['dostać'],['get']
+568,['czasem'],['sometimes']
+569,['chciałam'],"['I', 'wanted']"
+570,['jaką'],['which']
+571,['gówno'],['Shit']
+572,['brzmi'],['sounds']
+573,['chcemy'],"['We', 'want']"
+574,['każdego'],['each']
+575,['raczej'],['rather']
+576,['możliwe'],['possible']
+577,['każdym'],['every']
+578,['widziałeś'],"['You', 'saw']"
+579,['dawaj'],['Get']
+580,['nazywa'],['names']
+581,['powinien'],['should']
+582,['zabrać'],['take']
+583,['dziewczyny'],['Girls']
+584,['miałeś'],"['You', 'had']"
+585,['chłopaki'],['Guys']
+586,['doktorze'],['Doctor']
+587,['potrzebuje'],"['I', 'need']"
+588,['zgadza'],['agrees']
+589,['zrobimy'],"['we', 'will', 'do']"
+590,['godzin'],['hours']
+591,['ostatni'],['last']
+592,['wieczór'],['Evening']
+593,['świata'],['World']
+594,['serce'],['heart']
+595,['martw'],['dead']
+596,['wielki'],['Great']
+597,['powrotem'],['return']
+598,['żyć'],['live']
+599,['one'],['They']
+600,['plan'],['Plan']
+601,['pl'],['PL']
+602,['byłoby'],"['it', 'would', 'be']"
+603,['potrzebujemy'],"['We', 'need']"
+604,['dobranoc'],"['Good', 'night']"
+605,['żadnego'],['no']
+606,['kapitanie'],['Captain']
+607,['zobaczenia'],['see']
+608,['możecie'],"['You', 'can']"
+609,['wspaniale'],['great']
+610,['ogóle'],['total']
+611,['także'],['Also']
+612,['pół'],['half']
+613,['idziesz'],"['You', 'go']"
+614,['takich'],['such']
+615,['pojęcia'],['Concepts']
+616,['twoich'],['Your']
+617,['czymś'],['something']
+618,['cztery'],['four']
+619,['skarbie'],['Skarbie']
+620,['tata'],['Dad']
+621,['naszego'],['our']
+622,['panią'],['Lady']
+623,['wybacz'],['Forgive']
+624,['chcecie'],"['You', 'want']"
+625,['zrobisz'],"['you', 'will', 'do']"
+626,['pokój'],['room']
+627,['poczekaj'],['Wait']
+628,['uda'],['thighs']
+629,['głowy'],['heads']
+630,['szczęście'],['Happiness']
+631,['wyjść'],"['go', 'out']"
+632,['robota'],['Robot']
+633,['naszym'],['our']
+634,['syn'],['Son']
+635,['gotowy'],['Ready']
+636,['cieszę'],"['I', 'am', 'happy']"
+637,['głowę'],['27280']
+638,['rozmawiać'],['talk']
+639,['krwi'],['Blood']
+640,['wszystkiego'],['all']
+641,['zabił'],['killed']
+642,['czasie'],['time']
+643,['ciało'],['Body']
+644,['należy'],"['it', 'should', 'be']"
+645,['dziwne'],['strange']
+646,['została'],"['it', 'was']"
+647,['przeciwko'],['against']
+648,['ruszaj'],['move']
+649,['cała'],['all']
+650,['strony'],['Pages']
+651,['jaka'],['what']
+652,['mógłbym'],"['I', 'could']"
+653,['oznacza'],['means']
+654,['pomoc'],['Help']
+655,['taką'],['Such']
+656,['zostało'],['26386']
+657,['miasta'],['Cities']
+658,['tłumaczenie'],['Translation']
+659,['końca'],['end']
+660,['zostanie'],"['will', 'remain']"
+661,['policja'],['Police']
+662,['mieli'],"['They', 'had']"
+663,['pewna'],['sure']
+664,['obchodzi'],['celebrates']
+665,['ode'],['from']
+666,['syna'],['Son']
+667,['czasami'],['sometimes']
+668,['twarz'],['face']
+669,['rok'],['year']
+670,['mieliśmy'],"['We', 'had']"
+671,['lecz'],['but']
+672,['ostatnio'],['recently']
+673,['uwierzyć'],['believe']
+674,['daleko'],['Far']
+675,['rodziny'],['Families']
+676,['mogłem'],"['I', 'could']"
+677,['lubisz'],"['You', 'like']"
+678,['blisko'],['Near']
+679,['zły'],['Bad']
+680,['środku'],['middle']
+681,['boga'],['God']
+682,['byliśmy'],"['We', 'were']"
+683,['drodze'],['road']
+684,['szkoły'],['schools']
+685,['czeka'],['Waiting']
+686,['słowo'],['word']
+687,['radę'],['Council']
+688,['człowiekiem'],['man']
+689,['mogła'],"['she', 'could']"
+690,['brat'],['Brother']
+691,['mała'],['Little']
+692,['krew'],['blood']
+693,['najbardziej'],"['The', 'most']"
+694,['wejść'],['enter']
+695,['zewnątrz'],['outside']
+696,['mąż'],['Husband']
+697,['robimy'],"['We', 'do']"
+698,['słyszysz'],"['You', 'hear']"
+699,['kimś'],['someone']
+700,['część'],['Part']
+701,['wieczorem'],"['in', 'the', 'evening']"
+702,['widziałam'],"['I', 'saw']"
+703,['zna'],['knows']
+704,['wody'],['Water']
+705,['moi'],['my']
+706,['potrzebujesz'],"['You', 'need']"
+707,['lubi'],['likes']
+708,['wracaj'],"['come', 'back']"
+709,['rękę'],['hand']
+710,['tydzień'],['Week']
+711,['frank'],['Frank']
+712,['wrócę'],"['I', 'will', 'come', 'back']"
+713,['innym'],['Other']
+714,['wypadek'],['accident']
+715,['mówiłeś'],"['You', 'said']"
+716,['stronie'],['page']
+717,['mógłbyś'],"['You', 'could']"
+718,['sprawie'],['case']
+719,['zobaczymy'],"[""We'll"", 'see']"
+720,['wziąć'],['take']
+721,['gdybyś'],"['If', 'you', 'were']"
+722,['naszą'],['our']
+723,['nazywam'],['names']
+724,['późno'],['late']
+725,['zależy'],"['It', 'depends']"
+726,['człowieku'],['man']
+727,['góry'],['Mountains']
+728,['pomóż'],['Help']
+729,['jechać'],['drive']
+730,['pokaż'],['Show']
+731,['ciężko'],['hard']
+732,['napisów'],['inscriptions']
+733,['serio'],['seriously']
+734,['roboty'],['Robots']
+735,['zrobi'],"['will', 'do']"
+736,['mniej'],['less']
+737,['broni'],['weapons']
+738,['kiedykolwiek'],['ever']
+739,['temat'],['Topic']
+740,['mało'],['Little']
+741,['popatrz'],['Look']
+742,['charlie'],['Charlie']
+743,['prawa'],['Rights']
+744,['miesięcy'],['months']
+745,['pójść'],['go']
+746,['koleś'],['Dude']
+747,['jedziemy'],"[""We're"", 'going']"
+748,['wkrótce'],['soon']
+749,['nowe'],['New']
+750,['pierwsze'],['First']
+751,['nazwisko'],['Surname']
+752,['miasto'],['city']
+753,['racja'],['right']
+754,['leci'],['flies']
+755,['zostań'],['Stay']
+756,['stronę'],['page']
+757,['nieważne'],"['Never', 'mind']"
+758,['chciała'],"['She', 'wanted']"
+759,['chłopak'],['boy']
+760,['zdjęcia'],['photos']
+761,['znalazłem'],"['I', 'found']"
+762,['powinno'],['should']
+763,['robią'],"['They', 'do']"
+764,['powinnaś'],"['You', 'should']"
+765,['statek'],['Ship']
+766,['zostały'],['left']
+767,['wszędzie'],['everywhere']
+768,['prosto'],['Straight']
+769,['wielkie'],['Great']
+770,['dół'],['bottom']
+771,['zupełnie'],['completely']
+772,['tędy'],"['This', 'way']"
+773,['spotkanie'],['Meeting']
+774,['małe'],['small']
+775,['ponad'],['over']
+776,['według'],"['According', 'to']"
+777,['widział'],"['he', 'saw']"
+778,['mówiąc'],['Speaking']
+779,['drogę'],['road']
+780,['doktor'],['Doctor']
+781,['praca'],['Work']
+782,['drugi'],['second']
+783,['byłaś'],"['You', 'were']"
+784,['górę'],['top']
+785,['wiedzą'],"['They', 'know']"
+786,['mieście'],['city']
+787,['jakoś'],['somehow']
+788,['film'],['Film']
+789,['czyli'],['or']
+790,['chociaż'],['Although']
+791,['kłopoty'],['Trouble']
+792,['droga'],['road']
+793,['samochodu'],['car']
+794,['szansę'],['Chance']
+795,['zatrzymać'],['stop']
+796,['niemożliwe'],['impossible']
+797,['spać'],['sleep']
+798,['chłopcy'],['boys']
+799,['mógłby'],['could']
+800,['wasza'],['Your']
+801,['sądzisz'],"['you', 'think']"
+802,['przyjaciel'],['Friend']
+803,['michael'],['Michael']
+804,['tymi'],['these']
+805,['złe'],['bad']
+806,['mogli'],"['they', 'could']"
+807,['synu'],['Son']
+808,['powiedziałam'],"['I', 'said']"
+809,['szkoda'],['pity']
+810,['całym'],['whole']
+811,['żaden'],['No']
+812,['taa'],['yeah']
+813,['trzech'],['three']
+814,['wami'],['you']
+815,['pracuje'],['works']
+816,['faceta'],['guy']
+817,['sprawdzić'],['Check']
+818,['pogadać'],['talk']
+819,['serca'],['Hearts']
+820,['you'],['You']
+821,['kraju'],['country']
+822,['dał'],"['he', 'gave']"
+823,['trudno'],['hardly']
+824,['drugiej'],['second']
+825,['zaczyna'],['starts']
+826,['brak'],['no']
+827,['choć'],['Although']
+828,['powinnam'],"['I', 'should']"
+829,['ruszać'],['move']
+830,['chciałabym'],"['I', 'would', 'like']"
+831,['cicho'],['quiet']
+832,['samego'],[]
+833,['dziewczynę'],['Girl']
+834,['godzinę'],['at']
+835,['piękna'],['beautiful']
+836,['jakąś'],['some']
+837,['tom'],['volume']
+838,['www'],['www']
+839,['widzenia'],['vision']
+840,['spotkać'],['meet']
+841,['pracować'],['work']
+842,['żadnej'],['no']
+843,['pa'],['PA']
+844,['spróbuj'],['Try']
+845,['znać'],['Know']
+846,['ciała'],['Body']
+847,['przyjaciół'],['Friends']
+848,['razu'],['Once']
+849,['zapomnij'],['Forget']
+850,['harry'],['Harry']
+851,['najlepszy'],['Best']
+852,['ostatnie'],['last']
+853,['policji'],['Police']
+854,['otwórz'],['Open']
+855,['problemy'],['Problems']
+856,['ojcem'],['Father']
+857,['przykład'],['Example']
+858,['myśleć'],['think']
+859,['głupi'],['stupid']
+860,['wolno'],['slowly']
+861,['słyszałeś'],"['You', 'heard']"
+862,['powodzenia'],"['Good', 'luck']"
+863,['rodzina'],['Family']
+864,['pomoże'],"['19280', 'will']"
+865,['kilku'],"['A', 'few']"
+866,['uwagę'],['attention']
+867,['muszą'],['must']
+868,['chwila'],['moment']
+869,['jakaś'],['some']
+870,['zdjęcie'],['Photo']
+871,['środka'],['center']
+872,['nowym'],['New']
+873,['szefie'],['Boss']
+874,['odejść'],['leave']
+875,['wspólnego'],['common']
+876,['musiałem'],"['I', 'had', 'to']"
+877,['sami'],['Sami']
+878,['ziemię'],['Earth']
+879,['dawno'],['Long']
+880,['będziecie'],"['You', 'will', 'be']"
+881,['trzymać'],['hold']
+882,['pracuję'],"['I', 'work']"
+883,['pewnego'],['One']
+884,['inni'],['Others']
+885,['gotowi'],['Ready']
+886,['sześć'],['six']
+887,['głowie'],['head']
+888,['zabierz'],['Take']
+889,['sekund'],['seconds']
+890,['zmienić'],['change']
+891,['zabiję'],"['I', 'will', 'kill']"
+892,['czekać'],['wait']
+893,['gość'],['guest']
+894,['walczyć'],['fight']
+895,['chwileczkę'],"['Wait', 'for', 'a', 'moment']"
+896,['wystarczająco'],['enough']
+897,['musicie'],"['You', 'must']"
+898,['dasz'],"['you', 'will', 'give']"
+899,['tysięcy'],"['thousands', 'of']"
+900,['pierwsza'],['First']
+901,['zadzwonić'],['call']
+902,['rady'],['Council']
+903,['prawdopodobnie'],['Probably']
+904,['zostawić'],['leave']
+905,['niestety'],"['Unfortunately,']"
+906,['zobacz'],['See']
+907,['nagle'],['Suddenly']
+908,['wezmę'],"[""I'll"", 'take']"
+909,['zabawne'],['Funny']
+910,['żonę'],['wife']
+911,['panem'],['Mr.']
+912,['większość'],"['Most', 'of']"
+913,['wracam'],"[""I'm"", 'coming', 'back']"
+914,['joe'],['Joe']
+915,['wiedziałam'],"['I', 'knew']"
+916,['brata'],['brother']
+917,['często'],['often']
+918,['powie'],"['will', 'say']"
+919,['dobrym'],['good']
+920,['tyłu'],['back']
+921,['błąd'],['Error']
+922,['boję'],"['I', 'am', 'afraid', 'of']"
+923,['cel'],['CELE']
+924,['rany'],['wounds']
+925,['mówiłam'],"['I', 'spoke']"
+926,['wasze'],['Your']
+927,['niczym'],['like']
+928,['obiecuję'],"['I', 'promise']"
+929,['początku'],['beginning']
+930,['historia'],['History']
+931,['chciałeś'],"['You', 'wanted']"
+932,['uwaga'],['Attention']
+933,['gotowa'],['ready']
+934,['zacząć'],['start']
+935,['zatem'],['So']
+936,['tony'],['Tony']
+937,['istnieje'],"['There', 'is']"
+938,['jednej'],['one']
+939,['pokazać'],['show']
+940,['nikomu'],['nobody']
+941,['jakim'],['what']
+942,['rodzice'],['Parents']
+943,['okay'],['Okay']
+944,['szkole'],['school']
+945,['czuje'],"['I', 'feel']"
+946,['los'],"['The', 'fate', 'of']"
+947,['george'],['George']
+948,['david'],['David']
+949,['obok'],"['next', 'to']"
+950,['uspokój'],['Calm']
+951,['chodźcie'],['Come']
+952,['miało'],"['it', 'was']"
+953,['całkowicie'],['completely']
+954,['stój'],['Stand']
+955,['wiadomości'],['News']
+956,['pomyślałem'],"['I', 'thought']"
+957,['nogi'],['legs']
+958,['org'],['org']
+959,['ulicy'],['17330']
+960,['matki'],['Mothers']
+961,['fbi'],['FBI']
+962,['jedź'],['drive']
+963,['wojny'],['wars']
+964,['ciągu'],['In']
+965,['okazji'],['Occasion']
+966,['zadzwonię'],"['I', 'will', 'call']"
+967,['około'],['around']
+968,['ojcze'],['Father']
+969,['samym'],['alone']
+970,['uważam'],"['I', 'think']"
+971,['miłości'],['Love']
+972,['mike'],['Mike']
+973,['przyszedł'],"['He', 'came']"
+974,['tygodniu'],['week']
+975,['prawdziwe'],['real']
+976,['zadzwoń'],['Call']
+977,['widać'],"['You', 'can', 'see']"
+978,['myśl'],['Thought']
+979,['pozwolić'],['allow']
+980,['słyszę'],"['I', 'hear']"
+981,['wracać'],"['come', 'back']"
+982,['dajcie'],"['Give', 'me']"
+983,['historii'],['History']
+984,['http'],['http']
+985,['zajmę'],"['I', 'will', 'occupy']"
+986,['wieku'],['age']
+987,['jedynie'],['only']
+988,['zamiast'],"['instead', 'of']"
+989,['jakiegoś'],['some']
+990,['umrzeć'],['die']
+991,['wróci'],"['will', 'come', 'back']"
+992,['przyjdzie'],"['will', 'come']"
+993,['łatwo'],['easily']
+994,['siostra'],['sister']
+995,['oraz'],['and']
+996,['prawdziwy'],['real']
+997,['czyż'],['Czyż']
+998,['następny'],['next']
+999,['proste'],['Simple']
